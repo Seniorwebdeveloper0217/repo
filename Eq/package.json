@@ -20,7 +20,7 @@
     "highcharts-vue": "^1.2.0",
     "html2canvas": "^1.0.0-rc.5",
     "html2pdf.js": "^0.9.1",
-    "jspdf": "^1.5.3",
+    "jspdf": "^2.3.1",
     "laravel-file-manager": "^2.4.9",
     "pdfvuer": "^1.4.0",
     "textarea-caret": "^3.1.0",
