@@ -16,7 +16,7 @@
     "convert-units": "^2.3.4",
     "cropperjs": "^1.5.1",
     "firebase": "^4.12.1",
-    "highcharts": "^6.2.0",
+    "highcharts": "^9.0.0",
     "highcharts-vue": "^1.2.0",
     "html2canvas": "^1.0.0-rc.5",
     "html2pdf.js": "^0.9.1",
